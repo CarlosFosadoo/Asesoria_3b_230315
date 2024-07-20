@@ -7,7 +7,7 @@ En esta sección se ubicaran los archivos que adn forma y estilo al itio webb es
 
 
 >Integradora-Asesoria <br>
->| - Documentation** <br>
+>| - Documentation <br>
 >| - Frontend <br>
 >| - Backend <br>
 >**| - Frontend**
