@@ -12,7 +12,6 @@ Integradora-practic06<br>
 ## Equipo de Desarollo
 | Integrante | Contacto | Rol | Observaciones |
 |-------------|--------|----------|---------------|
-| M.T.I. Marco Antonio Ramírez Hernández |  [@MTI-MarcoRH](https://github.com/MTI-MarcoRH)      | Revision  |  ❌Sin revisión |
 |  Angel de Jesús Rufino Mendoza   |  [@RufinoAngel](https://github.com/RufinoAngel)      |   Desarrollador de  FrontEnd   |  ❌Sin revisión  |
 |Guadalupe Idai Vargas Galindo|[@IdaiVG](https://github.com/IdaiVG)|Desarrollador FrontEnd|❌Sin revisión|
 |Ana Daniela Lopez Neri|[@DanielaLopez66](https://github.com/DanielaLopez66)|Lider de desarrollo de Backend| ✅Revisado y aprobado
